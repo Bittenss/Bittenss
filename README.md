@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my online business<br>👯 I’m looking to collaborate with a marketing agency<br>🤝 I’m looking for a partner to grow together<br>🌱 I’m currently learning Java Script & getting better on HTML & CSS<br>💬 Ask me about Web Development <br>⚡ Fun fact | Like to spend hours coding
+🔭 I’m currently working on my online business<br>👯 I’m looking to collaborate with a marketing agency<br>🤝 I’m looking for a partner to grow together<br>🌱 I’m currently learning Java Script & getting better on HTML & CSS<br>💬 Ask me about Web Development <br>⚡ Fun fact | I'm 14 years old
 
 
 ## 🌐 Socials:
